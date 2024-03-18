@@ -7,7 +7,7 @@
 ---
 ### 👨‍💻 About Me :
   My Name is Aidan Prasetya, you can call me Aidan
-  <b>codename : aaroonz.rv
+  <b>username : aaroonz.rv
   
   I am a Front end Web Developer and a Data Enthusiast.
 - 📖 For Now, I am studying cyber security and full stack web development.
