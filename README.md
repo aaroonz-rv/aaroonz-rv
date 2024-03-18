@@ -13,7 +13,7 @@
 
 - 🔭 I like to exploring in Software Engineer and Web Dev.
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time, I solve problems on Codewars, HackerRank and read tech articles.
 
 - ☎️ Reach me on: [![Linkedin Badge](https://img.shields.io/badge/Aaroonz.rv-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
