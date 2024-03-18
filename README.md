@@ -12,7 +12,7 @@
   I am a Front end Web Developer and a Data Enthusiast.
 - 📖 For Now, I am studying cyber security and full stack web development.
 
-- 🔭 I like to exploring in Software Engineer and Web Dev.
+- 🔭 I like to exploring in Software Engineer, Web Dev and Astronomical Science.
 
 - ⚡ In my free time, I solve problems on Codewars, HackerRank and read tech articles.
 
