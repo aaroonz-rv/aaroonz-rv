@@ -7,6 +7,7 @@
 ---
 ### 👨‍💻 About Me :
   My Name is Aidan Prasetya, you can call me Aidan
+  ### codename : aaroonz.rv
   
   I am a Front end Web Developer and a Data Enthusiast.
 - 📖 For Now, I am studying cyber security and full stack web development.
@@ -15,7 +16,7 @@
 
 - ⚡ In my free time, I solve problems on Codewars, HackerRank and read tech articles.
 
-- ☎️ Reach me on: [![Linkedin Badge](https://img.shields.io/badge/Aaroonz.rv-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- ☎️ Reach me on: [![Linkedin Badge](https://img.shields.io/badge/Aaroonz.rv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaroon-prasetya-9139a12ba/).
 
 ---
 ### 🛄 Languages and Tools :
